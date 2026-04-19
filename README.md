@@ -2,6 +2,9 @@
 
 AI-powered e-commerce support assistant using RAG, LangGraph, and Groq.
 
+## 🌐 Live Demo
+https://shopassist-ai-rwqsmnejuabgugpf5x4wm7.streamlit.app/
+
 ## Features
 - 📚 FAQ answering using RAG (ChromaDB)
 - 📦 Order tracking simulation
